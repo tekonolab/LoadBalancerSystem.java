@@ -12,4 +12,3 @@ Sistemin en kritik teknik başarısı, Softmax hesaplamaları sırasında ortaya
 
 Uygulama süresince yapılan çalışma zamanı analizleri, algoritmanın kısa sürede en hızlı sunucuyu tespit ettiğini ve ortalama gecikme süresini kararlı bir seviyeye indirdiğini kanıtlamaktadır.
 
-Tüm bu geliştirme süreci, Gemini gibi gelişmiş dil modelleriyle kurulan "Agentic Coding" etkileşimi sayesinde, hem teorik bilgiyi hem de modern yapay zeka araçlarını birleştirme becerisiyle tamamlanmıştır.
